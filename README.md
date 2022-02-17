@@ -1,6 +1,6 @@
 # 煮豆黑体 Zhudou Sans
 
-煮豆黑体是衍生自 [Noto Sans](https://github.com/googlefonts/noto-fonts) 和[思源黑体](https://github.com/adobe-fonts/source-han-sans)的标点符号字体家族，支持中日韩标点、全角字母、全角数字及一些特殊符号。标点造型主要来源于 Noto Sans，可以为类似风格的西文字体带来更加协调的多语言混排效果。
+煮豆黑体是衍生自 [Noto Sans](https://github.com/googlefonts/noto-fonts) 和[思源黑体](https://github.com/adobe-fonts/source-han-sans)的标点符号字体家族，支持中日韩标点、全角字母、全角数字及一些特殊符号。标点造型主要来源于 Noto Sans，可以为类似风格的西文字体带来更加协调的中外文混排效果。
 
 本字体为可变字体，支持字重无级变化，同时提供对应思源黑体7个字重的静态版本。
 
@@ -85,7 +85,7 @@
 
 ## 授权信息
 
-本字体以《SIL 开源字体许可证》1.1版（SIL Open Font License 1.1，OFL）授权，可以自由使用（包括商用）、传播、修改，但不能单独出售字体文件。此外，修改版本不可使用原版字体的保留名称，且必须同样以《OFL》授权。详细信息请参见 https://scripts.sil.org/OFL 。
+本字体以《SIL 开源字体许可证》1.1版（SIL Open Font License 1.1，OFL）授权，可以自由使用（包括商用）、传播、修改，但不能单独出售字体文件。此外，修改版本不可使用本字体的保留名称 “Zhudou” 和 “煮豆”，且必须同样以《OFL》授权。详细信息请参见 https://scripts.sil.org/OFL 。
 
 ## 联系作者
 
