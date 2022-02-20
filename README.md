@@ -95,3 +95,7 @@
 
 关于本字体的意见或问题，建议在本项目的 [Issues 页面](https://github.com/Buernia/Zhudou-Sans/issues)提出。
 
+## 其他项目
+
+* [铁蒺藜体 Tiejili](https://github.com/Buernia/Tiejili)
+
