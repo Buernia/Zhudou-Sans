@@ -7,6 +7,8 @@
 ![样张](images/Sample.svg)
 
 > 样张文本选自马王堆汉墓帛书《老子》甲本、[《请颁行新式标点符号议案（修正案）》](https://zh.wikisource.org/wiki/%E8%AB%8B%E9%A0%92%E8%A1%8C%E6%96%B0%E5%BC%8F%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E8%AD%B0%E6%A1%88%EF%BC%88%E4%BF%AE%E6%AD%A3%E6%A1%88%EF%BC%89)、1951年[《标点符号用法》](https://zh.wikisource.org/wiki/%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E7%94%A8%E6%B3%95_(1951%E5%B9%B4))和日文维基百科条目[《約物》](https://ja.wikipedia.org/w/index.php?title=%E7%B4%84%E7%89%A9&oldid=86255058)
+>
+> 样张使用的中日文字体为思源黑体
 
 ## 字符支持
 
@@ -15,6 +17,8 @@
 * 全角字母、数字
 * 7个知识共享（Creative Commons）许可图标（⊜🄍🄎🄏🅭🅮🅯，`U+229C`、`U+1F10D`—`U+1F10F`、`U+1F16D`—`U+1F16F`）
 * 6个中国传统吉祥图案（🉠🉡🉢🉣🉤🉥，`U+1F260`—`U+1F265`）
+
+⚠**注意：本字体不包含汉字、假名、谚文、一般西文和数字，请和其他字体搭配使用。**
 
 ## 排版功能
 
