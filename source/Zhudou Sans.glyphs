@@ -1,5 +1,5 @@
 {
-.appVersion = "3133";
+.appVersion = "3184";
 .formatVersion = 3;
 axes = (
 {
@@ -817,15 +817,6 @@ feature ss01;
 feature ss02;
 ";
 tag = aalt;
-},
-{
-code = "lookup chws;";
-tag = chws;
-},
-{
-code = "lookup vchw;
-";
-tag = vchw;
 },
 {
 code = "pos @HaltRight <-500 0 -500 0>;
@@ -24300,6 +24291,9 @@ m002 = {
 };
 };
 m01 = {
+"@MMK_L_Centered" = {
+"@MMK_R_OpeningBracket" = -500;
+};
 "@MMK_L_ClosingBracket" = {
 "@MMK_R_Centered" = -500;
 "@MMK_R_ClosingBracket" = -500;
@@ -24318,9 +24312,6 @@ m01 = {
 "@MMK_R_space-han" = -500;
 };
 "@MMK_L_space-han" = {
-"@MMK_R_OpeningBracket" = -500;
-};
-"@MMK_L_Centered" = {
 "@MMK_R_OpeningBracket" = -500;
 };
 };
@@ -24478,6 +24469,10 @@ value = "煮豆黑體";
 {
 language = ZHH;
 value = "煮豆黑體";
+},
+{
+language = ENG;
+value = "Zhudou Sans";
 }
 );
 },
