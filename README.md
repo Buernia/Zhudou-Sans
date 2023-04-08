@@ -4,7 +4,8 @@
 
 本字体为可变字体，支持字重无级变化，同时提供对应思源黑体7个字重的静态版本。
 
-![样张](images/Sample.svg)
+![样张](images/Title.light.svg#gh-light-mode-only)
+![样张](images/Title.dark.svg#gh-dark-mode-only)
 
 > 样张文本选自马王堆汉墓帛书《老子》甲本、[《请颁行新式标点符号议案（修正案）》](https://zh.wikisource.org/wiki/%E8%AB%8B%E9%A0%92%E8%A1%8C%E6%96%B0%E5%BC%8F%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E8%AD%B0%E6%A1%88%EF%BC%88%E4%BF%AE%E6%AD%A3%E6%A1%88%EF%BC%89)、1951年[《标点符号用法》](https://zh.wikisource.org/wiki/%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E7%94%A8%E6%B3%95_(1951%E5%B9%B4))和日文维基百科条目[《約物》](https://ja.wikipedia.org/w/index.php?title=%E7%B4%84%E7%89%A9&oldid=86255058)
 >
