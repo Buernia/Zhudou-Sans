@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 600">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #001f25;
+      }
+
+      .cls-2 {
+        fill: #a53841;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #cbe6ff;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <g id="_图层_1" data-name="图层 1">
+    <g>
+      <g>
+        <rect class="cls-3" x="129.9992" y="114.9" width="130" height="130"/>
+        <rect class="cls-3" x="259.9992" y="114.9" width="130" height="130"/>
+        <rect class="cls-3" x="519.9992" y="114.9" width="130" height="130"/>
+        <rect class="cls-3" x="649.9992" y="114.9" width="130" height="130"/>
+        <path class="cls-2" d="M486.4859,183.7347h-77.873v-7.6699h78.0029l-31.5913-36.1416h10.0103l35.7515,39.9116-35.7515,40.0415h-10.0103l31.4614-36.1416Z"/>
+      </g>
+      <g>
+        <rect class="cls-3" x="129.6992" y="374.8989" width="130" height="130"/>
+        <rect class="cls-3" x="259.6992" y="374.8989" width="130" height="130"/>
+        <rect class="cls-3" x="389.6992" y="374.8989" width="130" height="130"/>
+        <rect class="cls-3" x="649.6992" y="374.8989" width="130" height="130"/>
+        <rect class="cls-3" x="779.6992" y="374.8989" width="130" height="130"/>
+        <rect class="cls-3" x="909.6992" y="374.8989" width="129.9999" height="130"/>
+        <path class="cls-2" d="M616.4859,443.7341h-77.873v-7.6699h78.0029l-31.5913-36.1416h10.0103l35.7515,39.9116-35.7515,40.0415h-10.0103l31.4614-36.1416Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="_图层_2" data-name="图层 2">
+    <g>
+      <path class="cls-1" d="M138.1494,185.1v-10.3999h113.0996v10.3999h-113.0996Z"/>
+      <path class="cls-1" d="M268.1494,185.1v-10.3999h113.0996v10.3999h-113.0996Z"/>
+      <path class="cls-1" d="M532.6992,185.1v-10.3999h234v10.3999h-234Z"/>
+    </g>
+    <g>
+      <path class="cls-1" d="M138.1494,445.1v-10.3994h113.0996v10.3994h-113.0996Z"/>
+      <path class="cls-1" d="M268.1494,445.1v-10.3994h113.0996v10.3994h-113.0996Z"/>
+      <path class="cls-1" d="M398.1494,445.1v-10.3994h113.0996v10.3994h-113.0996Z"/>
+      <path class="cls-1" d="M662.6992,445.1v-10.3994h364v10.3994h-364Z"/>
+    </g>
+  </g>
+</svg>

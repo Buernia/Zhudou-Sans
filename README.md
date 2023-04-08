@@ -4,8 +4,11 @@
 
 本字体为可变字体，支持字重无级变化，同时提供对应思源黑体7个字重的静态版本。
 
-![样张](images/Title.light.svg#gh-light-mode-only)
-![样张](images/Title.dark.svg#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/Title.dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./images/Title.light.svg">
+  <img src="./Title.light.svg">
+</picture>
 
 > 样张文本选自马王堆汉墓帛书《老子》甲本、[《请颁行新式标点符号议案（修正案）》](https://zh.wikisource.org/wiki/%E8%AB%8B%E9%A0%92%E8%A1%8C%E6%96%B0%E5%BC%8F%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E8%AD%B0%E6%A1%88%EF%BC%88%E4%BF%AE%E6%AD%A3%E6%A1%88%EF%BC%89)、1951年[《标点符号用法》](https://zh.wikisource.org/wiki/%E6%A8%99%E9%BB%9E%E7%AC%A6%E8%99%9F%E7%94%A8%E6%B3%95_(1951%E5%B9%B4))和日文维基百科条目[《約物》](https://ja.wikipedia.org/w/index.php?title=%E7%B4%84%E7%89%A9&oldid=86255058)
 >
@@ -33,25 +36,37 @@
 
   将 “？？” “？！” “！？” “！！” 组合成 “⁇” “⁈” “⁉” “‼” 合字。可在软件 OpenType 功能菜单中选择 “自由连字”（Adobe）或 “历史和任意连字”（Word）以开启该功能。
 
-  ![dlig](images/dlig.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/dlig.dark.svg">
+  <img src="./images/dlig.light.svg">
+</picture>
 
 * **全角、半角与比例宽度字形**（`fwid`、`hwid`、`pwid`）
 
   弯引号有全角、半角、比例（Adobe 误译为 “等比宽度”）3种宽度的字形，连接号和间隔号有全角、半角2种宽度的字形。Adobe 软件可在 “字形” 面板中选择相应字形。
 
-  ![fwid hwid pwid](images/fwid-hwid-pwid.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/fwid-hwid-pwid.dark.svg">
+  <img src="./images/fwid-hwid-pwid.light.svg">
+</picture>
 
 * **破折号连字**（`ccmp`）
 
   将2个 “—”（`U+2014`）组成一个完整的破折号，将3个 “—” 组成一个占3字宽的长横。默认开启。
 
-  ![ccmp](images/ccmp.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/ccmp.dark.svg">
+  <img src="./images/ccmp.light.svg">
+</picture>
 
-* **标点挤压**（`kern`、`vkrn`、`chws`、`vchw`）
+* **标点挤压**（`kern`、`vkrn`）
 
   压缩连续出现的标点符号所占空间。默认开启，可在软件字距微调菜单中关闭。在 InDesign 等专业排版软件中建议关闭（选择 “原始设定-仅罗马字”，确保西文字母间距微调不受影响），改用软件内的标点挤压功能。
 
-  ![chws](images/chws.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/kern.dark.svg">
+  <img src="./images/kern.light.svg">
+</picture>
 
   > 文本选自《请颁行新式标点符号议案（修正案）》
 
@@ -59,7 +74,10 @@
 
   本字体默认采用中国内地标点规范，可在软件（如 Word 和 InDesign）或网页中将文本标记为相应语言以采用港澳台、日本或韩国规范。
 
-  ![locl](images/locl.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/locl.dark.svg">
+  <img src="./images/locl.light.svg">
+</picture>
 
   > 文本选自1951年《标点符号用法》
 
@@ -67,21 +85,32 @@
 
   将全角数字０更改为斜杠０︀（Adobe 称 “斜线零”）字形。
 
-  ![zero](images/zero.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/zero.dark.svg">
+  <img src="./images/zero.light.svg">
+</picture>
 
 * **竖排字形**（`vert`）
 
   在竖排文本中使用相应的标点形式，默认开启。
 
-* **蝌蚪形逗号**（`ss01`）
-
-（待补完）
-
-* **居中标点**（`cpct`、`ss02`）
+* **居中标点**（`cpct`、`ss01`）
 
   将顿号、句号、叹号、逗号、句点、冒号、分号、问号居中。可在软件 OpenType 功能菜单中选择 “居中中日韩标点” 风格组合（Adobe）或 “样式集1”（Word）以开启该功能。
   
-  ![cpct](images/cpct.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/cpct.dark.svg">
+  <img src="./images/cpct.light.svg">
+</picture>
+
+* **蝌蚪形逗号**（`ss02`）**（新特性！）**
+
+  将逗号、分号和引号的字形改为蝌蚪形。
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/ss02.dark.svg">
+  <img src="./images/ss02.light.svg">
+</picture>
 
 此外，本字体亦支持变体选择符（Variation Selector，VS）功能，在相应字符后输入变体选择符 VS01（`U+FE00`）或 VS02（`U+FE01`）即可强制将该字符显示为规定的变体字形。本字体支持以下 Unicode 定义的标点符号和数字变体字形：
 
