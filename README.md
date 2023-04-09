@@ -125,6 +125,10 @@
 
 本字体以《SIL 开源字体许可证》1.1版（SIL Open Font License 1.1，OFL）授权，可以自由使用（包括商用）、传播、修改，但不能单独出售字体文件。此外，修改版本不可使用本字体的保留名称 “Zhudou” 和 “煮豆”，且必须同样以《OFL》授权。详细信息请参见 https://scripts.sil.org/OFL 。
 
+## 致谢
+
+感谢[绵云饴里](https://github.com/MY1L)优化传统吉祥图案的轮廓。
+
 ## 联系作者
 
 * **Twitter**：[@Buernia](https://twitter.com/Buernia)
