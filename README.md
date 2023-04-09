@@ -105,7 +105,7 @@
 
 * **蝌蚪形逗号**（`ss02`）**（新特性！）**
 
-  将逗号、分号和引号的字形改为蝌蚪形。
+  将逗号、分号和引号的字形改为蝌蚪形。可在软件 OpenType 功能菜单中选择 “蝌蚪逗号” 风格组合（Adobe）或 “样式集2”（Word）以开启该功能。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./images/ss02.dark.svg">
